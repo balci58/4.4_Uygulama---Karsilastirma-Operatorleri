@@ -1,0 +1,23 @@
+1. Sorunun Çözümü: 
+a: 10
+b: 5
+a: 10 b: 5 den büyüktür: True
+--------------------------------------------------
+2. Sorunun Çözümü: 
+1. vize: 50
+2. vize: 50
+final: 40
+not ortalamanız : 46.0 ve dersten geçme durumunuz: False
+--------------------------------------------------
+3. Sorunun Çözümü: 
+sayı: 9
+girilen sayının çift olma durumu: False
+--------------------------------------------------
+4. Sorunun Çözümü: 
+sayı: 10
+girilen sayının pozitif olma durumu: True
+--------------------------------------------------
+5. Sorunun Çözümü: 
+email:    email@sadikturan.com
+parola:         abc123    
+Email bilgisi doğru mu: True ve Parola doğru mu: True
